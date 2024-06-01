@@ -1,0 +1,10 @@
+{
+    "name": "totolapluminus/doteams-php",
+    "description": "To Do List App",
+    "autoload": {
+        "psr-4":{
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
